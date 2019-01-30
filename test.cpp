@@ -1,13 +1,8 @@
-#include<iostream>
-
-using namespace std;
+#include <iostream>
 
 int main()
-
 {
+	std::cout << "Hello World!" << std::endl;
 
-            cout<<“\n\nHello World,\nWelcome to my first C ++ program on Ubuntu Linux\n\n”<<endl;
-
-            return 0;
-
+	return 0;
 }
